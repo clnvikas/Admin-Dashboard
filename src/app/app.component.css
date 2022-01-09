@@ -1,0 +1,26 @@
+.title {
+    text-align: center; 
+    margin: 5px; 
+    padding: 5px;
+    color: orange;
+
+}
+
+.tablediv {
+    padding-top:10px;
+    padding:30px;
+} 
+
+.table {
+    text-align: center;
+    margin: 10px;
+}
+
+.edituser {
+    padding: 5;
+}
+
+.editbutton {
+    padding-right: 15px;
+    color:forestgreen;
+}
